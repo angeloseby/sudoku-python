@@ -1,7 +1,7 @@
 # SUDOKU - GAME
 ## _A GUI SUDOKU GAME IN PYTHON MADE WITH HELP OF BACK-TRACKING ALGORITHM_
 
-
+[Latest Release](https://github.com/angeloseby/sudoku-python/releases/tag/v1.0.0)
 
 ## Features
 
